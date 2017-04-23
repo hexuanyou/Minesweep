@@ -1,0 +1,5 @@
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1470, in __call__
+  File "minesweep.py", line 465, in helpfile
+IOError: [Errno 2] No such file or directory: './help_for_sweep.txt'
