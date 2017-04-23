@@ -1,4 +1,6 @@
-exeÄ¿Â¼: ./dist/minesweep.exe
-Ô´´úÂë£º./minesweep.py
+exe address: ./dist/minesweep.exe
+src£º./minesweep.py
 
 Email: he_xuanyou@163.com
+
+
