@@ -1,3 +1,7 @@
+./dist 文件夹包含minesweepe.exe可执行程序（windows下可运行）
+./Minesweep 代码放在这里，minesweep.py是源代码，mysetup.py是生成exe的代码
+
+
 #############################################################
 
 This is the help file for the mine sweepping assist program
