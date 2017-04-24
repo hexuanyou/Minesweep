@@ -1,6 +1,11 @@
-﻿./dist 文件夹包含minesweepe.exe可执行程序（windows下可运行）
+﻿./dist： 文件夹包含minesweepe.exe可执行程序（Windows下可运行）
 
-./Minesweep 代码放在这里，minesweep.py是源代码，mysetup.py是生成exe的代码
+./Minesweep： 代码放在这里，minesweep.py是源代码，mysetup.py是生成（Windows下可运行的）exe的代码
+
+
+序：minesweep.py是一个实现扫雷游戏和协助扫雷的程序，作者是在Windows下的Python 2.7.6（版本）进行编程的
+
+调用的库(python自带)：Tkinter/tkMessageBox/codecs/sys/time/Queue/random
 
 
 #############################################################
